@@ -10,3 +10,8 @@ Software:Pycharm 2019
 Database: Mysql Server 
 Machine Learning Algorithms (ml) 
 Tool:Python 3.7
+
+FUTURE SCOPE <br>
+By addressing these research priorities and advancing innovation in prevention, diagnosis, and treatment, the future of diabetic eye disease management holds the promise of improved patient outcomes, reduced healthcare burden, and enhanced quality of life for individuals living with diabetes,In the future of ocular prognosis projects using machine learning holds immense promise for advancing our understanding ocular diseases, improving diagnostic accuracy, enhancing clinical decision-making, and ultimately, optimizing patient care and outcomes. Continued innovation, collaboration, and ethical stewardship will be essential to 
+realize the full potential of machine learning in ophthalmology and global eye health. Definitely in future, Ocular prognosis will play a vital role by developing the remote Monitoring and Telemedicine.Development of telemedicine platforms and remote monitoring systems empowered by machine learning algorithms for decentralized screening, diagnosis, and management of ocular conditions, enabling 
+timely intervention and reducing the burden on healthcare infrastructure. Integration of wearable devices and smartphone-based technologies for home based monitoring of visual function and disease progression, facilitating continuous care and patient engagement.Hence this project will play a vital role for every individuals.
